@@ -1,5 +1,7 @@
 # kemma
 
+An older project from 2021.
+
 A very simple PubChem chemical database bot for Discord. Type '.chelp' for instructions.
 
 Dependencies:
