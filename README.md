@@ -11,6 +11,8 @@ Dependencies:
 
 *Modules in closures are optional
 
+First, add your Discord bot token into the 'config.json' file.
+
 To run, use: forever start -o out.log -e err.log index.js
 
 or
