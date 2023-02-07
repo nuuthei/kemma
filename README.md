@@ -1,5 +1,7 @@
 # kemma
 
+A very simple PubChem chemical database bot for Discord.
+
 Dependencies:
 
 - node.js npm install:
